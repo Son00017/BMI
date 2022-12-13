@@ -1,0 +1,11 @@
+label {
+  text-transform: capitalize;
+  font-size: 25px;
+}
+.container {
+  margin-top: 3rem;
+}
+.card {
+  margin-right: auto;
+  margin-left: auto;
+}
